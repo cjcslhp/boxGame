@@ -1,0 +1,1 @@
+一个小游戏，类似[Human Resource Machine](https://store.steampowered.com/app/375820/Human_Resource_Machine/).
